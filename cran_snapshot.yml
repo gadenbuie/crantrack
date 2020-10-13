@@ -1,0 +1,29 @@
+..generic:
+  git2rdata: 0.2.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - submission_time
+  - package
+  hash: b3b879cbbca1a8f34bf1f05fb1fd47908e5ee1b1
+  data_hash: 1c60c74023d235f8f0c39b5fbb59575c1e2622e8
+subfolder:
+  class: character
+snapshot_time:
+  class: POSIXct
+  origin: 1970-01-01 00:00:00
+  timezone: UTC
+year:
+  class: character
+time:
+  class: character
+package:
+  class: character
+version:
+  class: character
+submission_time:
+  class: POSIXct
+  origin: 1970-01-01 00:00:00
+  timezone: UTC
+howlongago:
+  class: numeric
