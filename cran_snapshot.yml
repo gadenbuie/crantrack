@@ -1,12 +1,12 @@
 ..generic:
-  git2rdata: 0.2.2
+  git2rdata: 0.2.1
   optimize: yes
   NA string: NA
   sorting:
   - submission_time
   - package
   hash: b3b879cbbca1a8f34bf1f05fb1fd47908e5ee1b1
-  data_hash: 2f86cec186edc5d4d48806849d8534c674b72645
+  data_hash: 3ccce063e5b6cd8a8f1fe28f95c1ff98b5e6f81b
 subfolder:
   class: character
 snapshot_time:
