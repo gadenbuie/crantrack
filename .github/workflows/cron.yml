@@ -4,7 +4,7 @@ on:
       description:
         description: 'Workflow Dispatch Description'
   schedule:
-    - cron:  '5 * * * *'
+    - cron:  '0 */6 * * *'
 
 name: CRAN Snapshot
 
