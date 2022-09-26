@@ -10,6 +10,7 @@ write_vc(
   file = "cran_snapshot", 
   root = repo, 
   stage = TRUE, 
+  strict = FALSE,
   sorting = c("submission_time", "package")
 )
 commit(message = snapshot_time)
